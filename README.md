@@ -1,1 +1,1 @@
-# shurl-url-shortener
+# SHURL - URL shortener
